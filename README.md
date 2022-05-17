@@ -16,3 +16,4 @@ I want to nurture online communities and services that provide so much good to p
 - Battleship game: [site](https://piotrnajda3000.github.io/battleship/) / [repo](https://github.com/piotrnajda3000/battleship) - HTML, CSS, JS, Jest 
 - Landing page: [site](https://piotrnajda3000.github.io/landing-page)  /  [repo](https://github.com/piotrnajda3000/landing-page) - HTML, CSS     
 
+Some of my other projects are pinned below. 
