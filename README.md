@@ -1,6 +1,6 @@
 ## Hi, this is Piotr 
 
-I want to leverage the internet for the sake of our collective and individual wellbeng. 
+I want to leverage the internet for the sake of our collective and individual wellbeing. 
 
 I want to nurture online communities and services that provide so much good to people.  
 
