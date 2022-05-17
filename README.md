@@ -5,7 +5,7 @@ I want to leverage the internet for the sake of our collective and individual we
 I want to nurture online communities and services that provide so much good to people.  
 
 - **IT student**, 2 out of 7 semesters 
-- Becoming a **full stack** web developer   
+- Currently training to become **front-end**, with ambitions for fullstack.
 - Interested in **UX & UI** 
 
 ## Projects highlight 
