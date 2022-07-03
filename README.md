@@ -1,4 +1,4 @@
-## Hi, this is Piotr 
+# Hi, this is Piotr 
 
 I want to leverage tech for the sake of our collective and individual wellbeing, by nurturing online communities and services that provide so much good.  
 
