@@ -10,10 +10,12 @@ I want to nurture online communities and services that provide so much good to p
 
 ## Projects highlight 
 
-- Shopping cart: [site](https://piotrnajda3000.github.io/shopping-cart/)  /  [repo](https://github.com/piotrnajda3000/shopping-cart) - React, React Router, styled-components 
-- CV creator: [site](https://piotrnajda3000.github.io/cvCreator/)  /  [repo](https://github.com/piotrnajda3000/cvCreator)  - React
+- Admin dashboard: [site](https://piotrnajda3000.github.io/admin-dashboard) / [repo](https://github.com/piotrnajda3000/landing-page) - HTML, SCSS, Webpack
+- Landing page: [site](https://piotrnajda3000.github.io/landing-page)  /  [repo](https://github.com/piotrnajda3000/landing-page) - HTML, CSS 
+- Shopping cart: [site](https://piotrnajda3000.github.io/shopping-cart/)  /  [repo](https://github.com/piotrnajda3000/shopping-cart) - React 
+- CV creator: [site](https://piotrnajda3000.github.io/cvCreator/)  /  [repo](https://github.com/piotrnajda3000/cvCreator) - React
 - Memory card game: [site](https://piotrnajda3000.github.io/memory-card)  /  [repo](https://github.com/piotrnajda3000/memory-card) - React
 - Battleship game: [site](https://piotrnajda3000.github.io/battleship/) / [repo](https://github.com/piotrnajda3000/battleship) - HTML, CSS, JS, Jest 
-- Landing page: [site](https://piotrnajda3000.github.io/landing-page)  /  [repo](https://github.com/piotrnajda3000/landing-page) - HTML, CSS     
-
+- TODO app: [site](https://piotrnajda3000.github.io/todo-app/) / [repo](https://github.com/piotrnajda3000/battleship) - HTML, CSS, JS 
+    
 Some of my other projects are pinned below. 
