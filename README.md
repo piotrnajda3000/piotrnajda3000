@@ -1,12 +1,10 @@
 ## Hi, this is Piotr 
 
-I want to leverage the internet for the sake of our collective and individual wellbeing. 
+I want to leverage tech for the sake of our collective and individual wellbeing, by nurturing online communities and services that provide so much good.  
 
-I want to nurture online communities and services that provide so much good to people.  
-
-- **IT student**, @ 2nd out of 7 semesters 
 - Learning with passion to become a **front-end** web developer
-- Interested in **UX & UI** 
+- Interested in vivid **UX & UI** 
+- **IT student**, @ 2nd out of 7 semesters 
 
 ## Projects highlight 
 
@@ -15,5 +13,4 @@ I want to nurture online communities and services that provide so much good to p
 - Shopping cart: [site](https://piotrnajda3000.github.io/shopping-cart/)  /  [repo](https://github.com/piotrnajda3000/shopping-cart) - React 
 - Battleship game: [site](https://piotrnajda3000.github.io/battleship/) / [repo](https://github.com/piotrnajda3000/battleship) - HTML, CSS, JS, Jest 
 
-    
-Some of my other projects are pinned below. 
+Some of my other projects are also pinned below. 
