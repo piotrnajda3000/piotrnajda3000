@@ -8,9 +8,9 @@ I want to leverage tech for the sake of our collective and individual wellbeing,
 
 ## Projects highlight 
 
-- Admin dashboard: [site](https://piotrnajda3000.github.io/admin-dashboard) / [repo](https://github.com/piotrnajda3000/admin-dashboard) - HTML, SASS, Webpack
-- Landing page: [site](https://piotrnajda3000.github.io/landing-page)  /  [repo](https://github.com/piotrnajda3000/landing-page) - HTML, SASS 
-- Shopping cart: [site](https://piotrnajda3000.github.io/shopping-cart/)  /  [repo](https://github.com/piotrnajda3000/shopping-cart) - React 
-- Battleship game: [site](https://piotrnajda3000.github.io/battleship/) / [repo](https://github.com/piotrnajda3000/battleship) - HTML, CSS, JS, Jest 
+- Admin dashboard: [site](https://piotrnajda3000.github.io/admin-dashboard) / [repo](https://github.com/piotrnajda3000/admin-dashboard) 
+- Landing page: [site](https://piotrnajda3000.github.io/landing-page)  /  [repo](https://github.com/piotrnajda3000/landing-page)
+- Shopping cart: [site](https://piotrnajda3000.github.io/shopping-cart/)  /  [repo](https://github.com/piotrnajda3000/shopping-cart) 
+- Battleship game: [site](https://piotrnajda3000.github.io/battleship/) / [repo](https://github.com/piotrnajda3000/battleship)
 
 Some of my other projects are also pinned below. 
