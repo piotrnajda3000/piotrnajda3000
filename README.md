@@ -1,10 +1,6 @@
 # Hi, this is Piotr 
 
-I want to leverage tech for the sake of our collective and individual wellbeing, by nurturing online communities and services.  
-
-- Learning **front-end** web development
-- Interested in both accessible & vivid **UX & UI** 
-- **IT student**, @ 2nd out of 7 semesters 
+Learning to become a full-stack web developer. I want to leverage tech for the sake of our collective and individual wellbeing, by nurturing online communities and services. I care about both accessible and vivid UX.  
 
 ## Projects highlight 
 
@@ -15,4 +11,3 @@ I want to leverage tech for the sake of our collective and individual wellbeing,
 - Landing page: [site](https://piotrnajda3000.github.io/landing-page)  /  [repo](https://github.com/piotrnajda3000/landing-page)
 - Battleship game: [site](https://piotrnajda3000.github.io/battleship/) / [repo](https://github.com/piotrnajda3000/battleship)
 
-More of my projects are pinned below! 
